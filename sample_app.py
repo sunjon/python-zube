@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 from zube import client
 
-CLIENT_ID = '16049ef4-e76b-11e9-9790-93aeddece9a7'
+CLIENT_ID = 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX'
 PRIVATE_KEY = './zube_api_key.pem'
 
 
